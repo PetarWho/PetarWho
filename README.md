@@ -4,7 +4,7 @@
 <p align="center">
   <h2>Contact me if you want to participate in future projects.</h2>
   <a href="https://twitter.com/royvoytheboy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="mailto:royvoytheboy@gmail.com?subject=Came%20from%20Github"><img src="https://drive.google.com/file/d/1aPMg1lpTDepYEI5mpyODywGq6lqSTFh1/view?usp=sharing?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:royvoytheboy@gmail.com?subject=Came%20from%20Github"><img src="https://drive.google.com/file/d/1aPMg1lpTDepYEI5mpyODywGq6lqSTFh1/preview?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!--<a href="https://dev.to/<yours>"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
  <a href="https://www.linkedin.com/in/<yours>/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
