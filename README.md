@@ -9,7 +9,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=PetarWho)
  
  
-<p>
+</p>
 <!-- BLOG-POST-LIST:END -->
 <!--
 **PetarWho/PetarWho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
