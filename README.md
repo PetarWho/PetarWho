@@ -1,6 +1,6 @@
 
 <!-- BLOG-POST-LIST:START -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=blu
+!https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=blu(https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=blu
 <p align="center">
 <h2>📫Contact me if you want to participate in future projects.</h2>
   <a href="https://twitter.com/royvoytheboy"><img src="https://i.imgur.com/VKfKfL5.png?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
