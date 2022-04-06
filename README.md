@@ -1,4 +1,4 @@
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=PetarWho)
 <!-- BLOG-POST-LIST:START -->
 <p align="center">
 <h2>📫Contact me if you want to participate in future projects.</h2>
