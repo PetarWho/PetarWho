@@ -1,4 +1,3 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=PetarWho)
 <!-- BLOG-POST-LIST:START -->
 <p align="center">
 <h2>📫Contact me if you want to participate in future projects.</h2>
@@ -7,6 +6,7 @@
   <!--<a href="https://dev.to/<yours>"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
  <a href="https://www.linkedin.com/in/<yours>/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=PetarWho)
  
  
 <p>
