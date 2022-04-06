@@ -1,4 +1,4 @@
-### Hi there 👋
+### Contact me if you want to join me in future projects.
 
 <p align="center">
   <!--<a href="https://dev.to/<yours>"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
