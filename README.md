@@ -10,10 +10,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/PetarWho">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/PetarWho?label=Followers&style=social">
-  </a>
-  <!-- Add more badges here (e.g., social media, personal website, etc.) -->
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/PetarWho?label=Followers&style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/PetarWho?affiliations=OWNER%2CCOLLABORATOR&style=social">
+  <img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/w/PetarWho/PetarWho?style=social">
 </p>
 
 <!-- Introduction -->
@@ -26,9 +25,8 @@
 
 Let's connect! You can reach me via:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- Email: royvoytheboy@gmail.com
+- Discord: royvoytheboy
 
 
 <!-- ## 💼 Projects
