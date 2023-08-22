@@ -8,6 +8,11 @@
   Welcome 👋
 </h1>
 
+## 🔝 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&layout=compact)](https://github.com/PetarWho)
+
+
 <!-- Badges -->
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/PetarWho?label=Followers&style=social">
