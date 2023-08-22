@@ -1,47 +1,48 @@
-<!-- BLOG-POST-LIST:START -->
+<!-- Header -->
+<p align="center">
+  <img src="https://i.imgur.com/WcAP7V2.png" alt="Profile Banner">
+</p>
+
 <!-- Title -->
 <h1 align="center">
-  <img src="your_logo_image_url_here" alt="Your Logo" width="150px">
-  <br>
-  Project Name
+  Welcome 👋
 </h1>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/your_username/your_repository_name/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/your_username/your_repository_name?style=for-the-badge">
+  <a href="https://github.com/PetarWho">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/PetarWho?label=Followers&style=social">
   </a>
-  <!-- Add more badges here (e.g., GitHub issues, license, etc.) -->
+  <!-- Add more badges here (e.g., social media, personal website, etc.) -->
 </p>
 
-<!-- Description -->
+<!-- Introduction -->
 <p align="center">
-  A concise and exciting description of your project.
+  Welcome to my GitHub profile! I'm passionate about coding, technology, and creating awesome things. Feel free to explore my repositories and connect with me.
 </p>
 
-<!-- Table of Contents -->
+<!-- Contact -->
+## 📫 Contact
+
+Let's connect! You can reach me via:
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+
+
+<!-- ## 💼 Projects
+
+Here are a few projects I'm proud of:
+
+- [Project Name 1](https://github.com/PetarWho/project-repo-1): Brief description.
+- [Project Name 2](https://github.com/PetarWho/project-repo-2): Brief description.
+- [Project Name 3](https://github.com/PetarWho/project-repo-3): Brief description.
+
+Feel free to explore more on my [GitHub repositories](https://github.com/PetarWho?tab=repositories). -->
+
+
+<!-- Footer -->
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a> •
-  <a href="#contact">Contact</a>
-</p>
-<!-- BLOG-POST-LIST:END -->
-<!--
-**PetarWho/PetarWho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Thanks for visiting! 🚀
 </p>
