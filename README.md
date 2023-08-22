@@ -19,9 +19,12 @@
 <!-- Introduction -->
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about coding, technology, and creating awesome things. Feel free to explore my repositories and connect with me.
-  ## 🔝 Top Languages
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&layout=compact)](https://github.com/PetarWho)
+## 🔝 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&layout=compact" alt="Top Languages">
 </p>
 
 <!-- Contact -->
