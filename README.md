@@ -8,10 +8,6 @@
   Welcome 👋
 </h1>
 
-## 🔝 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&layout=compact)](https://github.com/PetarWho)
-
 
 <!-- Badges -->
 <p align="center">
@@ -23,6 +19,9 @@
 <!-- Introduction -->
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about coding, technology, and creating awesome things. Feel free to explore my repositories and connect with me.
+  ## 🔝 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&layout=compact)](https://github.com/PetarWho)
 </p>
 
 <!-- Contact -->
