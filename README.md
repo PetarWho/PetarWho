@@ -11,7 +11,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/PetarWho?label=Followers&style=social">
+  <img src="https://komarev.com/ghpvc/?username=PetarWho" alt="Profile Views">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/PetarWho?affiliations=OWNER%2CCOLLABORATOR&style=social">
   <img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/w/PetarWho/PetarWho?style=social">
 </p>
