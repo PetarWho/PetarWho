@@ -31,7 +31,7 @@
 ## 📫 Contact
 
 Let's connect! You can reach me via:
-
+- LinkedIn: https://www.linkedin.com/in/peterpenev/
 - Email: royvoytheboy@gmail.com
 - Discord: royvoytheboy
 
