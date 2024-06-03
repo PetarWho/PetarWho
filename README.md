@@ -1,7 +1,7 @@
 <!-- Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/WcAP7V2.png" alt="Profile Banner">
-</p>
+</p>  -->
 
 <!-- Title -->
 <h1 align="center">
@@ -22,12 +22,12 @@
 </p>
 
 ## 🔝 Top Languages
-![PetarWho's Stats](https://github-readme-stats.vercel.app/api?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+<!--![PetarWho's Stats](https://github-readme-stats.vercel.app/api?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) -->
 ![PetarWho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox&hide_border=false)
 ![PetarWho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&layout=compact" alt="Top Languages">
-</p>
+</p> -->
 
 <!-- Contact -->
 ## 📫 Contact
