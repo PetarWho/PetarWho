@@ -25,9 +25,9 @@
 <!--![PetarWho's Stats](https://github-readme-stats.vercel.app/api?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) -->
 
 <div style="display: inline-block;">
-  <img height="190px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox&hide_border=false" alt="PetarWho's Streak" />
+  <img height="187px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox&hide_border=false" alt="PetarWho's Streak" />
 
-  <img height="190px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="PetarWho's Top Languages" />
+  <img height="187px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="PetarWho's Top Languages" />
 </div>
 
 <!-- <p align="left">
