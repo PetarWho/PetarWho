@@ -21,7 +21,7 @@
   Welcome to my GitHub profile! I'm passionate about coding, technology, and creating awesome things. Feel free to explore my repositories and connect with me.
 </p>
 
-## 🔝 Top Languages
+## 📊️ Stats
 <!--![PetarWho's Stats](https://github-readme-stats.vercel.app/api?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) -->
 
 <div style="display: inline-block;">
