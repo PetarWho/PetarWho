@@ -24,8 +24,8 @@
 ## 🔝 Top Languages
 <!--![PetarWho's Stats](https://github-readme-stats.vercel.app/api?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) -->
 
-<span height="150px"> ![PetarWho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox&hide_border=false) </span>
-<span height="150px"> ![PetarWho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact) </span>
+<span height="150px" width="auto"> ![PetarWho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox&hide_border=false) </span>
+<span height="150px" width="auto"> ![PetarWho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact) </span>
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&layout=compact" alt="Top Languages">
 </p> -->
