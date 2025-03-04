@@ -25,7 +25,7 @@
 <!--![PetarWho's Stats](https://github-readme-stats.vercel.app/api?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&count_private=true) -->
 
 <div style="display: inline-block;">
-  <img height="187px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox&hide_border=false" alt="PetarWho's Streak" />
+  <!-- <img height="187px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox&hide_border=false" alt="PetarWho's Streak" /> -->
 
   <img height="187px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="PetarWho's Top Languages" />
 </div>
@@ -39,7 +39,7 @@
 
 Let's connect! You can reach me via:
 - LinkedIn: https://www.linkedin.com/in/peterpenev/
-- Email: royvoytheboy@gmail.com
+- Email: petarpenev02@gmail.com
 - Discord: royvoytheboy
 
 
