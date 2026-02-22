@@ -39,7 +39,7 @@
 
 Let's connect! You can reach me via:
 - LinkedIn: https://www.linkedin.com/in/peterpenev/
-- Email: petarpenev02@gmail.com
+- Email: contact@petarpenev.info
 - Discord: royvoytheboy
 
 
