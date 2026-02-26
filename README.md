@@ -27,7 +27,7 @@
 <div style="display: inline-block;">
   <!--  <img height="187px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=PetarWho&theme=gruvbox" alt="PetarWho's Streak" />  -->
 
-  <img height="187px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarWho&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="PetarWho's Top Languages" />
+  <img height="187px" width="auto" src="https://streak-stats.demolab.com/?user=PetarWho&theme=dark" alt="PetarWho's Stats" />
 </div>
 
 <!-- <p align="left">
